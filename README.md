@@ -11,8 +11,5 @@
     <img alt="tmux Bright" src="https://github.com/tralireza/tralireza/blob/main/screenshots/tmux.bright.png">
     <img alt="tmux Dark" src="https://github.com/tralireza/tralireza/blob/main/screenshots/tmux.dark.png">
     
-- 🌱 I’m currently learning
-- 👯 I’m looking to collaborate on
 - 📫 How to reach me
   - [LinkedIn](https://www.linkedin.com/in/AlirezaTorabi/)
-- ⚡ Fun fact
