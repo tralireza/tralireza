@@ -1,17 +1,18 @@
-### Hi there 👋
+# Hi 👋 
 
-<--
-**tralireza/tralireza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### ( Helloings & Welcomings - if you know the joke! )
 
-Here are some ideas to get you started:
+---
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+  - Lean/Minimalistic TMUX status line ( ✨ _special_ ✨ )
+   
+    [.tmux.conf](https://github.com/tralireza/mbp13/blob/main/.tmux.conf) 
+    <img alt="tmux Bright" src="https://github.com/tralireza/tralireza/blob/main/screenshots/tmux.bright.png">
+    <img alt="tmux Dark" src="https://github.com/tralireza/tralireza/blob/main/screenshots/tmux.dark.png">
+    
+- 🌱 I’m currently learning
+- 👯 I’m looking to collaborate on
+- 📫 How to reach me
+  - [LinkedIn](https://www.linkedin.com/in/AlirezaTorabi/)
+- ⚡ Fun fact
