@@ -12,4 +12,4 @@
     <img alt="tmux Dark" src="https://github.com/tralireza/tralireza/blob/main/screenshots/tmux.dark.png">
     
 - 📫 How to reach me
-  - [LinkedIn](https://www.linkedin.com/in/AlirezaTorabi/)
+  - [LinkedIn](https://www.linkedin.com/in/tralireza)
